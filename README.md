@@ -18,4 +18,7 @@ And here are some more stats about the programming languages I use in my reposit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteHodok&layout=compact&theme=radical)
 
+![image](https://user-images.githubusercontent.com/39564937/226569116-e6d09b68-25bf-4b3c-bae0-df6dbaaf0646.png)
+
+
 
