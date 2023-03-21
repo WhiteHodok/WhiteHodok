@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm WhiteHodok!
 
-<!--
-**WhiteHodok/WhiteHodok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IoT profile student who loves Python! Here are some badges to show my skills:
 
-Here are some ideas to get you started:
+- Python: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- Pandas: ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- Seaborn: ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+- Altair: ![Altair](https://img.shields.io/badge/Altair-03A9F4?style=flat-square&logo=altair&logoColor=white)
+- PyTorch: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+- TensorFlow: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some stats about my GitHub activity:
+
+![WhiteHodok's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteHodok&show_icons=true&theme=radical)
+
+And here are some more stats about the programming languages I use in my repositories:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteHodok&layout=compact&theme=radical)
