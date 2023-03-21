@@ -18,5 +18,4 @@ And here are some more stats about the programming languages I use in my reposit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteHodok&layout=compact&theme=radical)
 
-## Spotify Profile Statistics
-[![Spotify Profile](https://now-playing-profile.vercel.app/api/v1/profile?spotifyAccessToken={0bc9bb73a06a4bcda4adb60bf1644691})](https://open.spotify.com/user/{jn2t1brazdci6ldrp3fy0suxx})
+
