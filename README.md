@@ -9,7 +9,6 @@ I'm an IoT profile student who loves Python! Here are some badges to show my ski
 - Seaborn: ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 - Altair: ![Altair](https://img.shields.io/badge/Altair-03A9F4?style=flat-square&logo=altair&logoColor=white)
 - scikit-learn: ![scikit_learn-F7931E](https://user-images.githubusercontent.com/39564937/227680182-82c87c60-f453-432b-ba5d-f0b84758539e.svg)
-- PyTorch: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 - TensorFlow: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 - COMPAS3D: ![COMPAS3D-00A2ED](https://user-images.githubusercontent.com/39564937/227680254-9d922c8c-f925-4a81-86d5-47b207ec10b9.svg)
 - AutoCAD: ![AutoCAD-CA472D](https://user-images.githubusercontent.com/39564937/227680272-e57f36db-8e69-473c-a785-1728d58bb768.svg)
