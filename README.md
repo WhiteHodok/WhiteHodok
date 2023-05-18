@@ -1,4 +1,4 @@
-# Hello, I'm WhiteHodok!
+# Hello, I'm WhiteHodok! Stackoverflow engineer
 
 I'm an IoT profile student who loves Python! Here are some badges to show my skills:
 
