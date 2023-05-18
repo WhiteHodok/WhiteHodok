@@ -1,4 +1,4 @@
-# Hello, I'm WhiteHodok! Stackoverflow engineer
+# Hello, I'm WhiteHodok! Stackoverflow citizen or Ctr-C + Ctr-V engineer
 
 I'm an IoT profile student who loves Python! Here are some badges to show my skills:
 
