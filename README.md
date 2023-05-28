@@ -3,7 +3,6 @@
 I'm an IoT profile student who loves Python! Here are some badges to show my skills:
 
 - Python: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- Lua: ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 - Matlab: ![Matlab-0076A8](https://user-images.githubusercontent.com/39564937/227680226-9ee0362d-c32e-4c8e-9bd8-dbc2b146d991.svg)
 - Pandas: ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - Seaborn: ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
