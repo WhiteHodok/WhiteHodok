@@ -24,4 +24,6 @@ And here are some more stats about the programming languages I use in my reposit
 ![image](https://user-images.githubusercontent.com/39564937/226569116-e6d09b68-25bf-4b3c-bae0-df6dbaaf0646.png)
 
 
+[![Bad Omens - The Death of Piece of Mind](https://img.shields.io/badge/Слушать%20на-Spotify-green?logo=spotify)](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr?si=b93f1a13cd60459a)
+
 
